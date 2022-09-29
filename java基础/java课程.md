@@ -12,7 +12,7 @@ javaee：java企业版，分布式，写B/S
 
 javame：micro嵌入式java，写旧版nokia应用
 
-### debug for java
+#### debug for java
 
 单步跳过：直接一步一步调试不进入函数
 
@@ -20,7 +20,7 @@ javame：micro嵌入式java，写旧版nokia应用
 
 单步退出：退出当前函数返回上一层
 
-### jdk和jre
+#### jdk和jre
 
 jre=jvm虚拟机+java类库
 
@@ -103,7 +103,7 @@ public class test1{
 }
 ```
 
-### java日期和时间
+#### java日期和时间
 
 ### 对象基础
 
@@ -806,7 +806,7 @@ public class ThrowTest {
 
 在Java7之前，父类和子类在声明抛出异常时应符合父类包含的异常“大于等于”子类包含的异常的规则；从Java7开始，Java编译器会检查throw语句抛出的异常的实际类型
 
-![](java课程/pics/2022-07-06-11-33-42-image.png)
+![](https://img2022.cnblogs.com/blog/2629720/202209/2629720-20220929133913141-1743754597.png)
 
 ### swing
 
@@ -830,7 +830,7 @@ java提供两个除磷图形用户界面的类库：
 
 布局管理器：（layout Manager）：每个容器都有一个布局管理器，用于对组件的定位和尺寸控制
 
-![](java课程/pics/2022-07-06-11-33-53-image.png)
+![](https://img2022.cnblogs.com/blog/2629720/202209/2629720-20220929133913768-1092023546.png)
 
 ​    
 
