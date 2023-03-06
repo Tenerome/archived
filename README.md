@@ -1,3 +1,3 @@
-# archive
-## 归档笔记和代码
+# dev
 
+for creating new branch , adding new functions 
